@@ -2,9 +2,9 @@
 
 ## 📌 Overview
 
-This project is built under **Theme 2 – Automated Resume Relevance Check System** for **Innomatics Research Labs**.
+This project is built under the theme **Automated Resume Relevance Check System**.
 
-Every week, the placement team receives **18–20 job requirements** across Hyderabad, Bangalore, Pune, and Delhi NCR. Each job attracts **hundreds or thousands of applications**.
+Every week, the placement team receives **thousands of job requirements** across Hyderabad, Bangalore, Pune, Delhi NCR and more. Each job attracts **hundreds or thousands of applications**.
 
 Currently, resumes are checked **manually**, which causes:
 - ⏳ **Delays** in shortlisting candidates
@@ -181,7 +181,7 @@ flowchart TD
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/SSARAWAGI05/YouvaPrashikshan
 cd edu
 ```
 
