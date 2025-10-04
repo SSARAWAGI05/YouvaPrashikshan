@@ -1,4 +1,4 @@
-# 🚀 Formula-4-1: Automated Resume Relevance Check System
+# 🚀 Youva Prashikshan: Automated Resume Relevance Check System
 
 ## 📌 Overview
 
