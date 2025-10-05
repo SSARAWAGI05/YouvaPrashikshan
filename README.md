@@ -182,7 +182,7 @@ flowchart TD
 
 ```bash
 git clone https://github.com/SSARAWAGI05/YouvaPrashikshan
-cd edu
+cd YouvaPrashikshan
 ```
 
 ### 2️⃣ Setup Environment
@@ -198,7 +198,7 @@ venv\Scripts\activate      # Windows
 Install dependencies:
 
 ```bash
-pip install -r server/requirements.txt
+pip install -r requirements.txt
 ```
 
 Setup environment variables in `server/.env`:
