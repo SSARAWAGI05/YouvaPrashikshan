@@ -1,7 +1,13 @@
 <div align="center">
   <img src="logo2.png" alt="Youva Prashikshan Logo" width="400"/>
-    
-# 🚀 Youva Prashikshan: Automated Resume Relevance Check System
+
+  # Youva Prashikshan
+
+**Automated Resume Relevance Check System.**
+
+SpendWise is a smart expense management app that helps people **track, split, and settle expenses in natural language**, while also budgeting and saving toward personal goals. It combines group expense tracking, personal budgeting, and UPI automation — all in one place.
+
+</div>
 
 ## 📌 Overview
 
