@@ -1,9 +1,9 @@
 <div align="center">
   <img src="logo2.png" alt="Youva Prashikshan Logo" width="400"/>
 
-  # Youva Prashikshan
+  # Yuva Prashikshan
 
-**Empowering Opportunities through Intelligent and Inclusive Recruitment.**
+**AI That Knows Who Fits, Not Just Who Applies.**
 
 An AI-driven platform to streamline the internship and government job allocation process — from application to final selection. The system features AI-based resume verification, skill extraction, job description matching, personalized assessments, and intelligent interviews, ensuring a fair, accessible, and scalable recruitment experience for all, including inclusive support for PwD candidates.
 
@@ -191,7 +191,7 @@ flowchart TD
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/SSARAWAGI05/YouvaPrashikshan
+git clone https://github.com/SSARAWAGI05/YuvaPrashikshan
 cd YouvaPrashikshan
 ```
 
