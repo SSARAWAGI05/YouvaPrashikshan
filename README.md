@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YouvaPrashikshan.jpeg" alt="Youva Prashikshan Logo" width="400"/>
+  <img src="logo.jpg" alt="Youva Prashikshan Logo" width="400"/>
     
 # 🚀 Youva Prashikshan: Automated Resume Relevance Check System
 
