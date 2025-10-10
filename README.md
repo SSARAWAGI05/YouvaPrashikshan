@@ -7,6 +7,7 @@
 
 An AI-driven platform to streamline the internship and government job allocation process — from application to final selection. The system features AI-based resume verification, skill extraction, job description matching, personalized assessments, and intelligent interviews, ensuring a fair, accessible, and scalable recruitment experience for all, including inclusive support for PwD candidates.
 
+
 </div>
 
 ## 📌 Overview
