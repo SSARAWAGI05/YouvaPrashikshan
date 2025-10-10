@@ -3,9 +3,9 @@
 
   # Youva Prashikshan
 
-**Automated Resume Relevance Check System.**
+**Empowering Opportunities through Intelligent and Inclusive Recruitment.**
 
-SpendWise is a smart expense management app that helps people **track, split, and settle expenses in natural language**, while also budgeting and saving toward personal goals. It combines group expense tracking, personal budgeting, and UPI automation — all in one place.
+Youva Prashikshan is an AI-driven platform to streamline the internship and government job allocation process — from application to final selection. The system features AI-based resume verification, skill extraction, job description matching, personalized assessments, and intelligent interviews, ensuring a fair, accessible, and scalable recruitment experience for all, including inclusive support for PwD candidates.
 
 </div>
 
